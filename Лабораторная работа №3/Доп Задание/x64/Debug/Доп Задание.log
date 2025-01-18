@@ -1,0 +1,40 @@
+﻿  Source.cpp
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(8,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fac"
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(8,14): error C2065: fac: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(8,19): error C2065: res: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(8,24): error C2065: c: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(8,27): error C2065: i: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(8,30): error C2065: n: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(11,19): error C2065: n: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(14,2): error C2065: n: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(17,2): error C2065: res: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(20,8): error C2065: i: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(20,19): error C2065: n: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(20,21): error C2065: i: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(21,4): error C2065: c: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(21,12): error C2065: i: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(22,9): error C2065: fac: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(22,17): error C2065: fac: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(22,24): error C2065: c: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(22,25): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(22,25): error C2143: синтаксическая ошибка: отсутствие ")" перед ":"
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(22,25): error C2059: синтаксическая ошибка: :
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(22,31): error C2059: синтаксическая ошибка: )
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(22,33): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(23,5): error C2065: res: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(23,11): error C2065: res: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(23,17): error C2065: fac: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(25,20): error C2065: i: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(25,9): error C2661: pow: нет перегруженной функции, принимающей 1 аргументов
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\cmath(801,1):
+      может быть "conditional<std::is_same_v<_Ty1,long double>||std::is_same_v<_Ty2,long double>,long double,conditional<std::is_same_v<_Ty1,float>&&std::is_same_v<_Ty2,float>,float,double>::type>::type pow(_Ty1,_Ty2) noexcept"
+          E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(25,9):
+          "conditional<std::is_same_v<_Ty1,long double>||std::is_same_v<_Ty2,long double>,long double,conditional<std::is_same_v<_Ty1,float>&&std::is_same_v<_Ty2,float>,float,double>::type>::type pow(_Ty1,_Ty2) noexcept": ожидаются аргументы 2 — 1 предоставлены
+      E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(25,9):
+      при попытке сопоставить список аргументов "(double)"
+  
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(25,34): error C2065: i: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(25,43): error C2065: res: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(26,4): error C2065: res: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(28,11): error C2065: e: необъявленный идентификатор
+E:\Visual Studeo Обучение\Лабораторная работа №3\Доп Задание\Source.cpp(28,23): error C2065: e: необъявленный идентификатор

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EBE0656-BDE2-4960-BDA9-C0CEF68DF8FF}|This File\\This File.vcxproj|E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\This File\\This File.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EBE0656-BDE2-4960-BDA9-C0CEF68DF8FF}|This File\\This File.vcxproj|solutionrelative:This File\\This File.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B3D17D-97C6-427F-B107-E68F7DA605BE}|\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435.vcxproj|E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02B3D17D-97C6-427F-B107-E68F7DA605BE}|\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435.vcxproj|solutionrelative:\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830497DD-E2C0-4C46-90B9-DF8DD57C63C4}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3.vcxproj|E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{830497DD-E2C0-4C46-90B9-DF8DD57C63C4}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3.vcxproj|solutionrelative:\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{405693DF-FF7B-4E3B-B497-ED92AFE5BCB8}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4.vcxproj|E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{405693DF-FF7B-4E3B-B497-ED92AFE5BCB8}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4.vcxproj|solutionrelative:\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906459D0-2CA5-45BC-8476-6EE7478E5D8C}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2.vcxproj|E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{906459D0-2CA5-45BC-8476-6EE7478E5D8C}|\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2.vcxproj|solutionrelative:\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2\\Source.cpp",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2\\Source.cpp",
+              "ToolTip": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2\\Source.cpp",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T17:56:15.594Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3\\Source.cpp",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3\\Source.cpp",
+              "ToolTip": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3\\Source.cpp",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 3\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T18:00:29.537Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Source.cpp",
+              "RelativeDocumentMoniker": "\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Source.cpp",
+              "ToolTip": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Source.cpp",
+              "RelativeToolTip": "\u041F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T18:13:07.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4\\Source.cpp",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4\\Source.cpp",
+              "ToolTip": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4\\Source.cpp",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u043D\u0438\u0435 \u043D\u043E\u043C\u0435\u0440 4\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T18:03:39.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "This File.cpp",
+              "DocumentMoniker": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\This File\\This File.cpp",
+              "RelativeDocumentMoniker": "This File\\This File.cpp",
+              "ToolTip": "E:\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0434\u043B\u044F \u0441\u0434\u0430\u0447\u0438 \u21161\\This File\\This File\\This File.cpp",
+              "RelativeToolTip": "This File\\This File.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T17:44:52.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  Lab8.cpp
+E:\МИТСО\Visual Studeo Обучение\Лаборатороная работа №8\Lab8\Lab8\Lab8.cpp(45,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\МИТСО\Visual Studeo Обучение\Лаборатороная работа №8\Lab8\Lab8\Lab8.cpp(45,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab8.vcxproj -> E:\МИТСО\Visual Studeo Обучение\Лаборатороная работа №8\Lab8\x64\Debug\Lab8.exe
