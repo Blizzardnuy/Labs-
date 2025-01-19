@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u041C\u0418\u0422\u0421\u041E\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043E\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211610\\Lab10\\",
+  "WorkspaceRootPath": "E:\\\u041C\u0418\u0422\u0421\u041E\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Labs-\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043E\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211610\\Lab10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F523471-C242-401A-8C2E-71C5D18935AE}|Lab10\\Lab10.vcxproj|E:\\\u041C\u0418\u0422\u0421\u041E\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043E\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211610\\Lab10\\Lab10\\Lab10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6F523471-C242-401A-8C2E-71C5D18935AE}|Lab10\\Lab10.vcxproj|E:\\\u041C\u0418\u0422\u0421\u041E\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Labs-\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043E\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211610\\Lab10\\Lab10\\Lab10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6F523471-C242-401A-8C2E-71C5D18935AE}|Lab10\\Lab10.vcxproj|solutionrelative:Lab10\\Lab10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab10.cpp",
-              "DocumentMoniker": "E:\\\u041C\u0418\u0422\u0421\u041E\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043E\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211610\\Lab10\\Lab10\\Lab10.cpp",
+              "DocumentMoniker": "E:\\\u041C\u0418\u0422\u0421\u041E\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Labs-\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043E\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211610\\Lab10\\Lab10\\Lab10.cpp",
               "RelativeDocumentMoniker": "Lab10\\Lab10.cpp",
-              "ToolTip": "E:\\\u041C\u0418\u0422\u0421\u041E\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043E\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211610\\Lab10\\Lab10\\Lab10.cpp",
+              "ToolTip": "E:\\\u041C\u0418\u0422\u0421\u041E\\Visual Studeo \u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\Labs-\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043E\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u211610\\Lab10\\Lab10\\Lab10.cpp",
               "RelativeToolTip": "Lab10\\Lab10.cpp",
-              "ViewState": "AgIAABoAAAAAAAAAAAAvwCQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAvwCQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-15T15:21:35.158Z",
               "EditorCaption": ""
